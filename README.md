@@ -19,4 +19,5 @@ The game was created using the [rlutil.h](https://github.com/tapio/rlutil) libra
 #### To compile, you need to download the [rlutil.h](https://github.com/tapio/rlutil) and add the option `g++ -pthread`
 
 ## Example
-example.mp4
+https://user-images.githubusercontent.com/69104496/158677658-f9d8fc7c-60f5-46b8-a256-b1b80f0ff470.mp4
+
